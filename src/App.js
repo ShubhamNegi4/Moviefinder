@@ -5,7 +5,7 @@ import Movie from './Movie'
 
 //api key = c5a01c9a
 
-const API_URL = 'http://www.omdbapi.com?apikey=c5a01c9a';
+const API_URL = 'https://www.omdbapi.com?apikey=c5a01c9a';
 
 
 //ok so it's time for a very first custom component
